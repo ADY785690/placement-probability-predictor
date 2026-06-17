@@ -1,15 +1,44 @@
-# Placement Probability Predictor
+# 🎯 Placement Intelligence Platform
 
-Predict placement chances based on CGPA, DSA, internships, projects and communication skills.
+AI-powered placement prediction and career intelligence platform.
 
 ## Features
 
-- Placement Probability
-- Salary Prediction
-- Student Assessment
+- Placement Probability Prediction
+- Salary Estimation
+- Company Tier Prediction
+- Resume Score Analysis
+- Skill Gap Detection
+- Company Recommendations
+- 90-Day Placement Roadmap
+- Downloadable Reports
 
 ## Tech Stack
 
 - Python
 - Streamlit
-- Scikit-learn
+- Pandas
+- Plotly
+- NumPy
+
+## Dashboard Metrics
+
+- Placement Probability
+- Resume Score
+- Salary Prediction
+- Company Tier
+
+## Target Users
+
+- B.Tech Students
+- Placement Aspirants
+- Career Counselors
+- Training & Placement Cells
+
+## Future Enhancements
+
+- Resume Upload Analysis
+- LinkedIn Profile Analysis
+- Interview Readiness Score
+- AI Career Coach
+- Job Recommendation Engine
